@@ -11,11 +11,11 @@ int i;
 i = 1;
 while (i <= 10)
 {
-for (c = 'a'; c = 'z'; c++)
+for (c = 'a'; c <= 'z'; c++)
 {
 _putchar(c);
 }
 _putchar('\n');
-}
 i++;
+}
 }
