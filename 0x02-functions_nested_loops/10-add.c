@@ -1,14 +1,13 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * add - addition of numbers
- * @int: numbers added
+ * @n1: numbers added
+ * @n2: numbers added
  * Return: Always 0.
  */
-int add(int, int)
+int add(int n2, int n1)
 {
-int add(int, int)
-return (int + int);
+return (n1 + n2);
 }
 
