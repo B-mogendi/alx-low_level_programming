@@ -8,10 +8,7 @@
  */
 int add(int, int)
 {
-int c;
-int c = int + int;
 int add(int, int)
-_putchar(c)
-return (0);
+return (int + int);
 }
 
