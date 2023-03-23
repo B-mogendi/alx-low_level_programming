@@ -6,3 +6,4 @@ int _isalpha(int c);
 int add(int, int);
 void jack_bauer(void);
 int print_sign(int n);
+int _abs(int);
