@@ -8,9 +8,9 @@
  */
 int add(int, int)
 {
-int a, b, c;
-int c = a + b;
-int add(a, b)
+int c;
+int c = int + int;
+int add(int, int)
 _putchar(c)
 return (0);
 }
