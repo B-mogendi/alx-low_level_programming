@@ -1,6 +1,7 @@
 #include "main.h"
+#include<string.h>
 /**
- *_strlen - swaps integers
+ *_strlen - counts numbers of characters
  *@s: string to be checked
  * Return - length
  */
